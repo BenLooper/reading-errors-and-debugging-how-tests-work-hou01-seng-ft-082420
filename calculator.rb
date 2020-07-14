@@ -1,2 +1,3 @@
 # Add your variables here
-first_number = 'hello'
+first_number = 10 
+second_number = 11 
